@@ -23,5 +23,5 @@ g++ *.cpp -o program
 ```
 **Ejecucion: **
 ```html
-./program ~/Documentos/proyectos/convertidorARomanos/numerosAConvertir.txt
+./program ~/Documentos/proyectos/convertidorARomanos/numerosAConvertir.txt (1)
 ```

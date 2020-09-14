@@ -2,7 +2,7 @@
 
 **Aplicacion ejecutable desde la terminal que transforma cualquier numero decimal (entre 1 y 3000) a numero romano, en base a programacion estructurada**
 
-![](https://github.com/zapataramil/convertidorARomanos/icono.ico)
+![](https://raw.githubusercontent.com/zapataramil/convertidorARomanos/master/icono.ico)
 
 ###Features
 
